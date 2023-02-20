@@ -39,9 +39,9 @@ A dynamic segment tree is a variation of the traditional segment tree data struc
 see this times that exist in the code:
 
 
-![img.png](img.png)
+![img.png](src/main/resources/img.png)
 
 
 performance:
 
-![img_1.png](img_1.png)
+![img_1.png](src/main/resources/img_1.png)
