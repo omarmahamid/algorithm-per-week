@@ -1,6 +1,6 @@
 package algorithm.every.week.sumrange;
 
-public class DynamicSegmentTree{
+public class DynamicSegmentTree implements Approach{
 
     Node root;
 
@@ -29,6 +29,7 @@ public class DynamicSegmentTree{
 
 
 
+    @Override
     public void update(int index, int val) {
         root = update(root, index, val);
     }
@@ -52,6 +53,7 @@ public class DynamicSegmentTree{
         return node;
     }
 
+    @Override
     public int query(int start, int end) {
         return query(root, start, end);
     }

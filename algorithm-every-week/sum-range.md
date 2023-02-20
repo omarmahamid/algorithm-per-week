@@ -33,3 +33,10 @@ yourkit performance:
 Motivation:
 
 A dynamic segment tree is a variation of the traditional segment tree data structure that allows for efficient modification of the underlying data. In contrast to the static segment tree, which is constructed once and cannot be modified, a dynamic segment tree can be constructed and modified at runtime, which makes it useful in scenarios where the data is changing frequently.
+
+# Difference between the two approaches in times
+
+see this times that exist in the code:
+
+
+![img.png](img.png)
