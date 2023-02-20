@@ -39,6 +39,9 @@ A dynamic segment tree is a variation of the traditional segment tree data struc
 see this times that exist in the code:
 
 
+https://github.com/omarmahamid/algorithm-per-week/blob/main/algorithm-every-week/src/main/java/algorithm/every/week/sumrange/MainRangeQuery.java
+
+
 ![img.png](src/main/resources/img.png)
 
 
