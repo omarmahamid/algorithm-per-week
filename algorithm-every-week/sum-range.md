@@ -40,3 +40,8 @@ see this times that exist in the code:
 
 
 ![img.png](img.png)
+
+
+performance:
+
+![img_1.png](img_1.png)
