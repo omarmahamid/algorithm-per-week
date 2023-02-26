@@ -1,5 +1,7 @@
 # algorithm-per-week
 Advanced algorithms, parallel algorithms, system design every week.
 
-see example:
-https://github.com/omarmahamid/algorithm-per-week/blob/main/algorithm-every-week/sum-range.md
+
+# Motivation
+Do you love concurrency ? Do you love advanced algorithms ? Do you love Java ?
+Then, This is the right place.
